@@ -1,0 +1,310 @@
+-- Merging decision tree log ---
+application
+INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:7:4-42:19
+MERGED from [:geolocator_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-17:19
+MERGED from [:geolocator_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-17:19
+MERGED from [:url_launcher_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
+MERGED from [:url_launcher_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-14:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Korisnik\.gradle\caches\transforms-3\0b45b93927f66da441bf06d6c6b58824\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Korisnik\.gradle\caches\transforms-3\0b45b93927f66da441bf06d6c6b58824\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\445aaa81f30acb6dd453780221048698\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\445aaa81f30acb6dd453780221048698\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Korisnik\.gradle\caches\transforms-3\771d35c1b558d8a979d30a09c51eabe0\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Korisnik\.gradle\caches\transforms-3\771d35c1b558d8a979d30a09c51eabe0\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Korisnik\.gradle\caches\transforms-3\cba51c85e0d193efedca2e5f334bd918\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Korisnik\.gradle\caches\transforms-3\cba51c85e0d193efedca2e5f334bd918\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\13ae9f9d52777c89179b2ce53fc0ea1d\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\13ae9f9d52777c89179b2ce53fc0ea1d\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\Korisnik\.gradle\caches\transforms-3\2f696355e2f786cce89e842c37015b5e\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\Korisnik\.gradle\caches\transforms-3\2f696355e2f786cce89e842c37015b5e\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Korisnik\.gradle\caches\transforms-3\bab182bb5da5e66ac9e50b46113a6f74\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Korisnik\.gradle\caches\transforms-3\bab182bb5da5e66ac9e50b46113a6f74\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\Korisnik\.gradle\caches\transforms-3\2f696355e2f786cce89e842c37015b5e\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:8:9-37
+	android:icon
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:10:9-45
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:11:9-44
+	android:name
+		INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:9:9-42
+manifest
+ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:1:1-43:12
+MERGED from [:shared_preferences_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:permission_handler_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\permission_handler_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:geolocator_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-19:12
+MERGED from [:google_maps_flutter_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\google_maps_flutter_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:geocoding] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geocoding\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\sqflite\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:url_launcher_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-16:12
+MERGED from [:path_provider_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:flutter_phone_direct_caller] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\flutter_phone_direct_caller\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-15:12
+MERGED from [:webview_flutter_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\webview_flutter_android\intermediates\merged_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Korisnik\.gradle\caches\transforms-3\e121b4334b2c8ccccc1d916a27dc7c62\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Korisnik\.gradle\caches\transforms-3\0b45b93927f66da441bf06d6c6b58824\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\445aaa81f30acb6dd453780221048698\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\Korisnik\.gradle\caches\transforms-3\18948cf9b43d6412f9419b7a6bdb1962\transformed\webkit-1.5.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Korisnik\.gradle\caches\transforms-3\771d35c1b558d8a979d30a09c51eabe0\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Korisnik\.gradle\caches\transforms-3\cba51c85e0d193efedca2e5f334bd918\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\13ae9f9d52777c89179b2ce53fc0ea1d\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\ece30599ffb774e35c1d51ade1ca9ad3\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0557780051f1a798f4bb63374ff88cb7\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\7167f9d52c2713075547c8353fefbaed\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\d7f9642a183c46b8a92128e2f7ddac1a\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a6e6f83838e6f521ea63020f9539dd9e\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\Korisnik\.gradle\caches\transforms-3\2f696355e2f786cce89e842c37015b5e\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\41d01dc5d6db4430480ab877bc2b1ddb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Korisnik\.gradle\caches\transforms-3\b97cee06dbeb5e84f9894bbd4d8a2c98\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Korisnik\.gradle\caches\transforms-3\bab182bb5da5e66ac9e50b46113a6f74\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\6aaeae0c11c5268aab93bfd38af274dd\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\199a5304a9a6ab30710234ab813de48b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e93b825db5e86bf4218b659e37dbef5a\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e33e1b825666c6b7787ef1a33f620e41\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\3351b2d43d78305064678a7f6190daa3\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\bf0d692a9522d65f83cf5d2ea0952fb3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:1:1-43:12
+INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:1:1-43:12
+	package
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:1:1-43:12
+		INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:5:22-78
+uses-sdk
+INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+MERGED from [:shared_preferences_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:shared_preferences_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\shared_preferences_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\permission_handler_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:permission_handler_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\permission_handler_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:geolocator_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\google_maps_flutter_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:google_maps_flutter_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\google_maps_flutter_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\flutter_plugin_android_lifecycle\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geocoding\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:geocoding] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geocoding\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\sqflite\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:sqflite] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\sqflite\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:url_launcher_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\path_provider_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_phone_direct_caller] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\flutter_phone_direct_caller\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_phone_direct_caller] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\flutter_phone_direct_caller\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\webview_flutter_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:webview_flutter_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\webview_flutter_android\intermediates\merged_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Korisnik\.gradle\caches\transforms-3\e121b4334b2c8ccccc1d916a27dc7c62\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Korisnik\.gradle\caches\transforms-3\e121b4334b2c8ccccc1d916a27dc7c62\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Korisnik\.gradle\caches\transforms-3\0b45b93927f66da441bf06d6c6b58824\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Korisnik\.gradle\caches\transforms-3\0b45b93927f66da441bf06d6c6b58824\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\445aaa81f30acb6dd453780221048698\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:20.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\445aaa81f30acb6dd453780221048698\transformed\jetified-play-services-location-20.0.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\Korisnik\.gradle\caches\transforms-3\18948cf9b43d6412f9419b7a6bdb1962\transformed\webkit-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.5.0] C:\Users\Korisnik\.gradle\caches\transforms-3\18948cf9b43d6412f9419b7a6bdb1962\transformed\webkit-1.5.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Korisnik\.gradle\caches\transforms-3\771d35c1b558d8a979d30a09c51eabe0\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Korisnik\.gradle\caches\transforms-3\771d35c1b558d8a979d30a09c51eabe0\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Korisnik\.gradle\caches\transforms-3\cba51c85e0d193efedca2e5f334bd918\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] C:\Users\Korisnik\.gradle\caches\transforms-3\cba51c85e0d193efedca2e5f334bd918\transformed\jetified-play-services-tasks-18.0.1\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\13ae9f9d52777c89179b2ce53fc0ea1d\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\13ae9f9d52777c89179b2ce53fc0ea1d\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\ece30599ffb774e35c1d51ade1ca9ad3\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\ece30599ffb774e35c1d51ade1ca9ad3\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0557780051f1a798f4bb63374ff88cb7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\0557780051f1a798f4bb63374ff88cb7\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\7167f9d52c2713075547c8353fefbaed\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\7167f9d52c2713075547c8353fefbaed\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\d7f9642a183c46b8a92128e2f7ddac1a\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\d7f9642a183c46b8a92128e2f7ddac1a\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a6e6f83838e6f521ea63020f9539dd9e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\a6e6f83838e6f521ea63020f9539dd9e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\Korisnik\.gradle\caches\transforms-3\2f696355e2f786cce89e842c37015b5e\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Korisnik\.gradle\caches\transforms-3\2f696355e2f786cce89e842c37015b5e\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\41d01dc5d6db4430480ab877bc2b1ddb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\41d01dc5d6db4430480ab877bc2b1ddb\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Korisnik\.gradle\caches\transforms-3\b97cee06dbeb5e84f9894bbd4d8a2c98\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Korisnik\.gradle\caches\transforms-3\b97cee06dbeb5e84f9894bbd4d8a2c98\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Korisnik\.gradle\caches\transforms-3\bab182bb5da5e66ac9e50b46113a6f74\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Korisnik\.gradle\caches\transforms-3\bab182bb5da5e66ac9e50b46113a6f74\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\6aaeae0c11c5268aab93bfd38af274dd\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\6aaeae0c11c5268aab93bfd38af274dd\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\199a5304a9a6ab30710234ab813de48b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\199a5304a9a6ab30710234ab813de48b\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e93b825db5e86bf4218b659e37dbef5a\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e93b825db5e86bf4218b659e37dbef5a\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e33e1b825666c6b7787ef1a33f620e41\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\e33e1b825666c6b7787ef1a33f620e41\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\3351b2d43d78305064678a7f6190daa3\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\3351b2d43d78305064678a7f6190daa3\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\bf0d692a9522d65f83cf5d2ea0952fb3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\bf0d692a9522d65f83cf5d2ea0952fb3\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml
+activity#com.example.novi_travnik.MainActivity
+ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:13:9-33:20
+	android:launchMode
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:16:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:19:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:20:13-55
+	android:exported
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:15:13-36
+	android:configChanges
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:18:13-163
+	android:theme
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:17:13-47
+	android:name
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:14:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:25:13-28:17
+	android:resource
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:27:15-52
+	android:name
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:26:15-70
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:29:13-32:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:30:17-68
+	android:name
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:31:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:36:9-39:15
+	android:value
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:38:13-30
+	android:name
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:37:13-44
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:40:13-41:73
+	android:value
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:41:16-71
+	android:name
+		ADDED from C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\android\app\src\main\AndroidManifest.xml:40:24-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [:geolocator_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-77
+	android:name
+		ADDED from [:geolocator_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-74
+service#com.baseflow.geolocator.GeolocatorLocationService
+ADDED from [:geolocator_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-16:56
+	android:enabled
+		ADDED from [:geolocator_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:14:13-35
+	android:exported
+		ADDED from [:geolocator_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:15:13-37
+	android:foregroundServiceType
+		ADDED from [:geolocator_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:16:13-53
+	android:name
+		ADDED from [:geolocator_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\geolocator_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-77
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:10:9-13:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:12:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:13:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\url_launcher_android\intermediates\merged_manifest\release\AndroidManifest.xml:11:13-74
+uses-permission#android.permission.CALL_PHONE
+ADDED from [:flutter_phone_direct_caller] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\flutter_phone_direct_caller\intermediates\merged_manifest\release\AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from [:flutter_phone_direct_caller] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\flutter_phone_direct_caller\intermediates\merged_manifest\release\AndroidManifest.xml:9:22-66
+uses-feature#android.hardware.telephony
+ADDED from [:flutter_phone_direct_caller] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\flutter_phone_direct_caller\intermediates\merged_manifest\release\AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [:flutter_phone_direct_caller] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\flutter_phone_direct_caller\intermediates\merged_manifest\release\AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [:flutter_phone_direct_caller] C:\Users\Korisnik\Documents\Novi Travnik\novi_travnik\build\flutter_phone_direct_caller\intermediates\merged_manifest\release\AndroidManifest.xml:12:9-50
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Korisnik\.gradle\caches\transforms-3\0b45b93927f66da441bf06d6c6b58824\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Korisnik\.gradle\caches\transforms-3\0b45b93927f66da441bf06d6c6b58824\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Korisnik\.gradle\caches\transforms-3\0b45b93927f66da441bf06d6c6b58824\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Korisnik\.gradle\caches\transforms-3\0b45b93927f66da441bf06d6c6b58824\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Korisnik\.gradle\caches\transforms-3\0b45b93927f66da441bf06d6c6b58824\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Korisnik\.gradle\caches\transforms-3\0b45b93927f66da441bf06d6c6b58824\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:24:22-64
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.1.0] C:\Users\Korisnik\.gradle\caches\transforms-3\99fb85c301698f5b895535b82d2414ac\transformed\jetified-play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Korisnik\.gradle\caches\transforms-3\771d35c1b558d8a979d30a09c51eabe0\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Korisnik\.gradle\caches\transforms-3\771d35c1b558d8a979d30a09c51eabe0\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Korisnik\.gradle\caches\transforms-3\771d35c1b558d8a979d30a09c51eabe0\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] C:\Users\Korisnik\.gradle\caches\transforms-3\771d35c1b558d8a979d30a09c51eabe0\transformed\jetified-play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\13ae9f9d52777c89179b2ce53fc0ea1d\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\13ae9f9d52777c89179b2ce53fc0ea1d\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.0.0] C:\Users\Korisnik\.gradle\caches\transforms-3\13ae9f9d52777c89179b2ce53fc0ea1d\transformed\jetified-play-services-basement-18.0.0\AndroidManifest.xml:22:13-58

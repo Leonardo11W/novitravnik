@@ -1,0 +1,76 @@
+Flutter crash report.
+Please report a bug at https://github.com/flutter/flutter/issues.
+
+## command
+
+flutter run
+
+## exception
+
+_CastError: Null check operator used on a null value
+
+```
+#0      HotRunner._resetDirtyAssets (package:flutter_tools/src/run_hot.dart:497:20)
+#1      HotRunner._restartFromSources (package:flutter_tools/src/run_hot.dart:565:5)
+<asynchronous suspension>
+#2      HotRunner._fullRestartHelper (package:flutter_tools/src/run_hot.dart:754:16)
+<asynchronous suspension>
+#3      HotRunner.restart (package:flutter_tools/src/run_hot.dart:694:38)
+<asynchronous suspension>
+#4      TerminalHandler._commonTerminalInputHandler (package:flutter_tools/src/resident_runner.dart:1699:40)
+<asynchronous suspension>
+#5      TerminalHandler.processTerminalInput (package:flutter_tools/src/resident_runner.dart:1739:7)
+<asynchronous suspension>
+```
+
+## flutter doctor
+
+```
+[✓] Flutter (Channel stable, 3.3.2, on Microsoft Windows [Version 10.0.22000.978], locale
+    bs-Latn-BA)
+    • Flutter version 3.3.2 on channel stable at C:\Users\Korisnik\flutter
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision e3c29ec00c (3 weeks ago), 2022-09-14 08:46:55 -0500
+    • Engine revision a4ff2c53d8
+    • Dart version 2.18.1
+    • DevTools version 2.15.0
+
+[✓] Android toolchain - develop for Android devices (Android SDK version 33.0.0)
+    • Android SDK at C:\Users\Korisnik\AppData\Local\Android\sdk
+    • Platform android-33, build-tools 33.0.0
+    • Java binary at: C:\Program Files\Android\Android Studio\jre\bin\java
+    • Java version OpenJDK Runtime Environment (build 11.0.12+7-b1504.28-7817840)
+    • All Android licenses accepted.
+
+[✓] Chrome - develop for the web
+    • Chrome at C:\Program Files\Google\Chrome\Application\chrome.exe
+
+[✓] Visual Studio - develop for Windows (Visual Studio Community 2022 17.3.3)
+    • Visual Studio at C:\Program Files\Microsoft Visual Studio\2022\Community
+    • Visual Studio Community 2022 version 17.3.32825.248
+    • Windows 10 SDK version 10.0.19041.0
+
+[✓] Android Studio (version 2021.2)
+    • Android Studio at C:\Program Files\Android\Android Studio
+    • Flutter plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/9212-flutter
+    • Dart plugin can be installed from:
+      🔨 https://plugins.jetbrains.com/plugin/6351-dart
+    • Java version OpenJDK Runtime Environment (build 11.0.12+7-b1504.28-7817840)
+
+[✓] VS Code (version 1.71.2)
+    • VS Code at C:\Users\Korisnik\AppData\Local\Programs\Microsoft VS Code
+    • Flutter extension version 3.50.0
+
+[✓] Connected device (4 available)
+    • sdk gphone64 x86 64 (mobile) • emulator-5554 • android-x64    • Android 13 (API 33) (emulator)
+    • Windows (desktop)            • windows       • windows-x64    • Microsoft Windows [Version
+      10.0.22000.978]
+    • Chrome (web)                 • chrome        • web-javascript • Google Chrome 106.0.5249.91
+    • Edge (web)                   • edge          • web-javascript • Microsoft Edge 106.0.1370.34
+
+[✓] HTTP Host Availability
+    • All required HTTP hosts are available
+
+• No issues found!
+```
